@@ -11,7 +11,7 @@
 
 <p align="center"><img src="website/static/img/jest-readme-headline.png" width="80%"/></p>
 
-<h2 align="center">🃏 Delightful JavaScript Testing</h2>
+<h2 align="center">🃏 Delightful JavaScript Testing!!</h2>
 
 **👩🏻‍💻 Developer Ready**: A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
 
